@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Joker",
+      "year": 2019,
+      "summary": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker."
+    },
+    {
+      "id": 2,
+      "title": "1917",
+      "year": 2019,
+      "summary": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap."
+    },
+    {
+      "id": 3,
+      "title": "Parasite",
+      "year": 2019,
+      "summary": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+    },
+    {
+      "id": 4,
+      "title": "Inception",
+      "year": 2010,
+      "summary": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+    },
+    {
+      "id": 5,
+      "title": "Interstellar",
+      "year": 2014,
+      "summary": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+    }
+  ]
+}
