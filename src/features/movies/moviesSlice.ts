@@ -34,7 +34,7 @@ const moviesSlice = createSlice({
   reducers: {
     fetchMoviesInit(state) {
       return produce(state, (draft) => {
-        //draft.errors.fetching = [];
+        draft.errors.fetching = [];
         draft.status.isLoading = true;
         draft.hasErrors = false;
         draft.movies = [];
